@@ -16,7 +16,7 @@ body {
 
 .blog-header-item {
   padding: 0 10px;
-  color:black;
+  color: black;
   cursor: pointer;
 }
 
@@ -34,8 +34,10 @@ a {
 }
 
 .section-home {
+  width: 300px;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: flex-start;
 }
 
